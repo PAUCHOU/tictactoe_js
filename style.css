@@ -1,0 +1,44 @@
+
+#container {
+	margin: center;
+	width: 20em;
+	height: 28em;
+	border: 2px solid black;
+	text-align: center;
+}
+.mark {
+    width: 83px;
+	height:80px;
+	margin: 5px 5px 5px 5px;
+	text-align: center;
+	border: 5px solid blue;
+	color: black;
+    display: inline-block;
+    font-size: 40px
+}
+
+
+
+#reset {
+  background-color: red;
+  border: 2px solid ;
+  width: 83px;
+  height: 60px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+#gameStatus {
+	text-align: auto;
+    border: 2px solid black;
+    width: 83px;
+    height: 60px;
+}
+
+#page {
+	text-align: center;
+	
+}
